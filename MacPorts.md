@@ -1,0 +1,1 @@
+MacPorts is a distribution mechanism for open source software on the Macintosh platform.  It allows the easy installation of tools needed to build and use the Wavelogger.
